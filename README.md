@@ -1,6 +1,6 @@
 # Introduction to Git and GitHub
 
-## Simple Interest Calculator
+## Simple Interest Calculator   Fixed the 2022 typo 
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
